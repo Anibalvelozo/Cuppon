@@ -1,0 +1,56 @@
+body{
+	Font-family: 'Roboto', sans-serif;
+}
+
+.bg-personalizado{
+	background-color: #28A745;
+}
+.navbar-brand img{
+	width: 82px;
+}
+
+
+.card{
+	margin: 0 auto;
+}
+
+
+hr {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.card-title {
+    font-size: 1.25rem;
+    font-weight: 300;
+    color: #212529;
+}
+
+.card-direccion {
+    font-size: 0.8125rem;
+}
+
+.card-precio-final {
+    font-size: 1.25rem;
+    font-weight: 500;
+    color: #28a745;
+    margin-left: 1rem;
+}
+
+
+footer{
+	text-align: center;
+}
+
+footer img{
+	width: 82px;
+	padding-top: 25px;
+}
+
+footer p{
+	color:#707070;
+	font-weight:100;
+}
+
+@media (max-width: 992px) {
+}
